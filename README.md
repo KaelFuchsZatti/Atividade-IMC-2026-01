@@ -5,4 +5,4 @@ RA: 1137819
 
 Professor: Luciano Rodrigo Ferretto
 
-//Atividade de cálculo de IMC desenvolvido em Java na disciplina de Paradigma de Linguagens de Programação.
+Atividade de cálculo de IMC desenvolvido em Java na disciplina de Paradigma de Linguagens de Programação.
