@@ -1,6 +1,6 @@
 # Atividade-IMC-2026-01
 
-Aluno: Kael Fuchs Zatti
+Aluno: Kael Fuchs Zatti  
 RA: 1137819
 
 Professor: Luciano Rodrigo Ferretto
